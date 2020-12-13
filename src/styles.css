@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap");
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1,
+h3,
+p {
+  font-family: "Space Grotesk", sans-serif;
+  color: royalblue;
+  padding-bottom: 1rem;
+}
+
+input {
+  border: 2px solid black;
+  padding: 1rem;
+}
